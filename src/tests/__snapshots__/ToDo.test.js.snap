@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToDo component Snapshots 1`] = `
+Array [
+  <div
+    className="todo"
+  >
+    <h1>
+      TODO
+    </h1>
+    <input
+      className="text"
+      onChange={[Function]}
+      onKeyDown={[Function]}
+      placeholder="Task"
+      type="text"
+    />
+  </div>,
+  <div
+    className="done"
+  >
+    <h1>
+      DONE
+    </h1>
+  </div>,
+]
+`;

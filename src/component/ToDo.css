@@ -1,0 +1,45 @@
+div{
+    display: flex;
+    margin-top: 20px;
+}
+.todo{
+    box-shadow: 1px 5px 20px 2px rgb(196, 196, 196);
+    border-radius: 10px;
+    height: 80vh;
+    width: 20vw;
+    margin-left: 20vw;
+    background-color: rgb(243, 239, 243);
+    display: inline;
+}
+.done{
+    
+    box-shadow: 1px 5px 20px 2px rgb(196, 196, 196);
+    border-radius: 10px;
+    margin-left: 17vw;
+    background-color: rgb(243, 239, 243);
+    width: 20vw;
+    display: inline;
+}
+h1{
+    margin-left: 7.5vw;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+p{
+    font-size: large;
+    margin-left: 3vw;
+    margin-top: 9vh;
+}
+.text{
+    height: 4vh;
+    width: 18vw;
+    margin-top: 20px;
+    margin-left: 8px;
+    border-radius: 2px;
+}
+.checkbox{
+    width: 10vw;
+    margin-top: 20px;
+}
+
